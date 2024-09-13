@@ -25,4 +25,16 @@ Algums problemas que resolvi no LeetCode.
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaeliton09/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/kaeliton09/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/kaeliton09/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/kaeliton09/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
