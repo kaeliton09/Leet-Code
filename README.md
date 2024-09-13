@@ -7,6 +7,7 @@ Algums problemas que resolvi no LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaeliton09/Leet-Code/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/kaeliton09/Leet-Code/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/kaeliton09/Leet-Code/tree/master/0463-island-perimeter) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaeliton09/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
@@ -21,6 +22,7 @@ Algums problemas que resolvi no LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kaeliton09/Leet-Code/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaeliton09/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
