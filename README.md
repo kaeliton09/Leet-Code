@@ -7,6 +7,7 @@ Algums problemas que resolvi no LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaeliton09/Leet-Code/tree/master/0001-two-sum) |
+| [0463-island-perimeter](https://github.com/kaeliton09/Leet-Code/tree/master/0463-island-perimeter) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaeliton09/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -37,4 +38,16 @@ Algums problemas que resolvi no LeetCode.
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/kaeliton09/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kaeliton09/Leet-Code/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kaeliton09/Leet-Code/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kaeliton09/Leet-Code/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
